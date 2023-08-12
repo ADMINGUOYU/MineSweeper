@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\GUOXM\source\repos\MineSweeper\test.c(36,2): warning C4013: 'Sleep' undefined; assuming extern returning int
+  MineSweeper.vcxproj -> C:\Users\GUOXM\source\repos\MineSweeper\x64\Debug\MineSweeper.exe
